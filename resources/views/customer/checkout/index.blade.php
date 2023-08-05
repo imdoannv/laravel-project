@@ -8,7 +8,7 @@
 <div class="container">
     <div class="py-5 text-center">
         <h1>Checkout form</h1>
-        <p class="lead">Complete the final step to place an order, <sapn style="color:red">all the following information will be completely confidential</sapn></p>
+
     </div>
 
     <div class="row">
